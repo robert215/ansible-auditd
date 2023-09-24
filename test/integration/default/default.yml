@@ -9,4 +9,4 @@
     auditd_log_all_socket: true
     auditd_laurel_enable: true
   roles:
-    - main.yml
+    - juju4.auditd
